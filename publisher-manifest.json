@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "c6d4f3a7d09da4239abeef73",
+  "owner": "g5gxus",
+  "repo": "page-21e8ab8c55e73badb4c24002",
+  "title": "auVPN",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "21e8ab8c55e73badb4c24002",
+      "a": "auVPN",
+      "b": "",
+      "entity": "auVPN",
+      "brand": "auVPN",
+      "separator": "",
+      "path": "index.html",
+      "hash": "bd9beed23af8acc33ecbb03f67e98f79c51eea6ff19242e5aebf64a63dc3f03a",
+      "content": {
+        "keyword1": "auVPN",
+        "keyword2": "",
+        "primary_entity": "auVPN",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "auVPN 是一款轻量好用的私人网络助手，帮你轻松访问全球内容、保护日常上网隐私，订阅灵活，上手简单，像朋友一样贴心陪伴每一次连接。",
+          "AI_DESCRIPTION": "auVPN 是一款轻量好用的私人网络助手，帮你轻松访问全球内容、保护日常上网隐私，订阅灵活，上手简单，像朋友一样贴心陪伴每一次连接。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\n:root{--wine:#5b1a26;--wine-deep:#3d111b;--wine-soft:#7a2a38;--ivory:#f6efe1;--cream:#efe5cf;--ink:#2a1518;--muted:#8a6a6e;--line:#2a1518}\nhtml,body{background:var(--ivory);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Microsoft YaHei\",sans-serif;line-height:1.7;font-size:16px}\na{color:var(--wine);text-decoration:none;border-bottom:1px solid currentColor}\na:hover{color:var(--wine-deep)}\n.layout{display:flex;min-height:100vh}\nnav.sidebar{position:fixed;top:0;left:0;width:200px;height:100vh;background:var(--wine);color:var(--ivory);padding:28px 18px;display:flex;flex-direction:column;gap:18px;border-right:3px solid var(--wine-deep);z-index:20}\nnav .brand{font-size:22px;font-weight:800;letter-spacing:0.5px;border:2px solid var(--ivory);padding:8px 12px;text-align:center}\nnav .toc{display:flex;flex-direction:column;gap:6px;font-size:14px}\nnav .toc a{color:var(--ivory);border-bottom:none;padding:6px 8px;border-left:2px solid transparent}\nnav .toc a:hover{background:var(--wine-deep);border-left-color:var(--ivory)}\nnav .foot{margin-top:auto;font-size:12px;opacity:0.7;line-height:1.5}\nmain{margin-left:200px;flex:1;max-width:960px;padding:0}\nsection{padding:60px 48px;border-bottom:2px solid var(--line)}\nsection:last-of-type{border-bottom:none}\n.hero{background:var(--wine);color:var(--ivory);padding:48px;border-bottom:3px solid var(--wine-deep)}\n.hero h1{font-size:40px;margin-bottom:14px;letter-spacing:1px}\n.hero .lead{font-size:18px;max-width:560px;margin-bottom:32px;opacity:0.92}\n.dash{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}\n.dash .tile{background:var(--ivory);color:var(--ink);border:2px solid var(--line);padding:18px 16px}\n.dash .num{font-size:30px;font-weight:800;color:var(--wine);line-height:1.1}\n.dash .label{font-size:12px;margin-top:6px;color:var(--muted);text-transform:uppercase;letter-spacing:1px}\n.dash .desc{font-size:13px;margin-top:8px;line-height:1.5}\nh2{font-size:28px;margin-bottom:20px;border-left:5px solid var(--wine);padding-left:14px}\nh3{font-size:20px;margin:18px 0 10px;color:var(--wine-deep)}\np{margin-bottom:14px}\n.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:22px}\n.card{border:2px solid var(--line);padding:22px;background:var(--cream)}\n.card h3{margin-top:0}\n.plans{display:flex;flex-direction:column;gap:20px}\n.plan{border:2px solid var(--line);padding:24px;background:var(--ivory);position:relative}\n.plan.featured{border-width:3px;background:var(--cream)}\n.plan .tag{position:absolute;top:-12px;left:18px;background:var(--wine);color:var(--ivory);font-size:12px;padding:3px 10px;font-weight:700}\n.plan .pname{font-size:24px;font-weight:800;margin-bottom:6px}\n.plan .pprice{font-size:22px;color:var(--wine);font-weight:700;margin-bottom:4px}\n.plan .pyear{font-size:13px;color:var(--muted);margin-bottom:14px}\n.plan ul{list-style:none;padding:0}\n.plan li{padding:6px 0;border-top:1px dashed rgba(42,21,24,0.25);font-size:14px}\n.plan li:first-child{border-top:none}\n.faq-group{margin-bottom:26px}\n.faq-group h3{border-bottom:2px solid var(--line);padding-bottom:6px}\n.qa{margin-bottom:14px}\n.qa .q{font-weight:700;color:var(--wine-deep);margin-bottom:4px}\n.qa .a{font-size:15px}\nfooter{background:var(--wine-deep);color:var(--ivory);padding:28px 48px;font-size:13px;line-height:1.7}\n@media(max-width:760px){\nnav.sidebar{position:relative;width:100%;height:auto;flex-direction:row;flex-wrap:wrap;align-items:center;gap:10px;padding:12px}\nnav .brand{margin:0}\nnav .toc{flex-direction:row;flex-wrap:wrap;gap:4px}\nnav .toc a{padding:4px 6px}\nnav .foot{margin:0;width:100%;text-align:center}\nmain{margin-left:0}\nsection{padding:36px 20px}\n.dash{grid-template-columns:repeat(2,1fr)}\n.hero h1{font-size:30px}\n}\n</style><div class=\"layout\">\n<nav class=\"sidebar\">\n<div class=\"brand\">auVPN</div>\n<div class=\"toc\">\n<a href=\"#hero\">首页</a>\n<a href=\"#about\">关于</a>\n<a href=\"#features\">功能</a>\n<a href=\"#plans\">套餐</a>\n<a href=\"#guide\">使用指南</a>\n<a href=\"#faq\">常见问题</a>\n<a href=\"#contact\">联系</a>\n</div>\n<div class=\"foot\">陪你安静穿梭网络的小助手<br>© auVPN</div>\n</nav>\n<main>\n<section class=\"hero\" id=\"hero\">\n<h1>auVPN</h1>\n<p class=\"lead\">嗨，我是 auVPN，一款轻量好用的私人网络小助手。不吹牛、不花哨，只想陪你安安静静地看世界、保护隐私，像老朋友一样靠谱。</p>\n<div class=\"dash\">\n<div class=\"tile\"><div class=\"num\">3</div><div class=\"label\">套餐档位</div><div class=\"desc\">从日常浏览到团队协作，总有一档合适</div></div>\n<div class=\"tile\"><div class=\"num\">100GB+</div><div class=\"label\">起步流量</div><div class=\"desc\">基础版每月即享，追剧办公都够用</div></div>\n<div class=\"tile\"><div class=\"num\">5</div><div class=\"label\">设备同连</div><div class=\"desc\">旗舰版支持，手机平板电脑一起上</div></div>\n<div class=\"tile\"><div class=\"num\">24h</div><div class=\"label\">工单响应</div><div class=\"desc\">遇到问题随时找，不让你一个人等</div></div>\n</div>\n</section>\n<section id=\"about\">\n<h2>关于 auVPN</h2>\n<p>你好呀，欢迎来到 auVPN 的小角落。我们做这件事的初衷很简单：让普通人也能轻松拥有一个稳定、顺手的网络通道，不用懂技术、不用看教程看到头大，点开就能用。</p>\n<p>我们没有花里胡哨的宣传词，也不会承诺什么\"万能解锁\"。我们只是认真把节点维护好、把客户端做得清爽、把客服回复做得快一点。你遇到问题，我们就在；你没遇到问题，我们就安静待在后台，不打扰。</p>\n<p>如果你想要一个不折腾、不绑架、说人话的网络助手，不妨试试 auVPN。我们陪你慢慢上网。</p>\n</section>\n<section id=\"features\">\n<h2>功能特点</h2>\n<div class=\"cards\">\n<article class=\"card\">\n<h3>多设备同时在线</h3>\n<p>一个账号，手机、平板、电脑都能挂上。旗舰版支持 5 台设备同时连接，团队版更是能扛 20 台，全家或小团队一起用都没压力。</p>\n</article>\n<article class=\"card\">\n<h3>流媒体友好</h3>\n<p>基础版即可解锁常见流媒体，旗舰版更进一步，全节点原生解锁，追番、看剧、听歌不用反复切换。</p>\n</article>\n<article class=\"card\">\n<h3>专线优化</h3>\n<p>旗舰版及以上提供 IPLC 专线与游戏加速优化，低延迟、不卡顿，打游戏、开会议都更稳。</p>\n</article>\n<article class=\"card\">\n<h3>工单陪伴</h3>\n<p>遇到连接不顺、节点异常，提交工单就好。旗舰版享受 7×24 优先响应，团队版还有专属客户经理对接。</p>\n</article>\n</div>\n</section>\n<section id=\"plans\">\n<h2>订阅套餐</h2>\n<p>三档套餐，按需选择，都可以按月或按年订阅。按年付更划算，长期使用推荐年付。</p>\n<div class=\"plans\">\n<article class=\"plan\">\n<div class=\"pname\">基础版</div>\n<div class=\"pprice\">¥15 / 月</div>\n<div class=\"pyear\">按年付仅需 ¥150 / 年</div>\n<ul>\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n</article>\n<article class=\"plan featured\">\n<span class=\"tag\">推荐</span>\n<div class=\"pname\">旗舰版</div>\n<div class=\"pprice\">¥35 / 月</div>\n<div class=\"pyear\">按年付仅需 ¥350 / 年</div>\n<ul>\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7×24 优先工单支持</li>\n</ul>\n</article>\n<article class=\"plan\">\n<div class=\"pname\">团队版</div>\n<div class=\"pprice\">¥85 / 月</div>\n<div class=\"pyear\">按年付仅需 ¥850 / 年</div>\n<ul>\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n</article>\n</div>\n<p>套餐内容和价格可能随服务升级调整，以订阅页面实时信息为准。</p>\n</section>\n<section id=\"guide\">\n<h2>使用指南</h2>\n<p>第一次用 auVPN？别紧张，跟着这几步走就行，很快就能连上。</p>\n<h3>第一步：选择套餐并注册</h3>\n<p>在套餐区域挑一个适合你的档位，完成订阅后会获得账号信息。建议新手先从基础版试手，够用再升级。</p>\n<h3>第二步：获取客户端</h3>\n<p>auVPN 支持主流平台的第三方客户端接入。你可以使用兼容通用协议的客户端，将订阅链接导入即可自动同步节点。具体客户端名称与下载地址请以订阅后收到的说明邮件为准。</p>\n<h3>第三步：导入订阅并连接</h3>\n<p>在客户端中粘贴你的专属订阅链接，更新节点列表，选择一个离你较近或带\"解锁\"标签的节点，点击连接。几秒钟后，你就可以安静地开始上网了。</p>\n<h3>第四步：遇到问题怎么办</h3>\n<p>连不上、速度慢、解锁失效，都别着急。登录账户后台提交工单，描述你的网络环境和你试过的节点，客服会尽快回复你。旗舰版及以上享受优先处理。</p>\n</section>\n<section id=\"faq\">\n<h2>常见问题</h2>\n<p>这里整理了一些大家常问的问题，先看看能不能解答你的疑惑。</p>\n<div class=\"faq-group\">\n<h3>关于订阅</h3>\n<div class=\"qa\"><div class=\"q\">套餐可以随时更换吗？</div><div class=\"a\">可以的。你可以在账户后台升级或降级套餐，升级时按剩余时长补差价；降级则在当前周期结束后生效。我们不会为难你。</div></div>\n<div class=\"qa\"><div class=\"q\">按年付和按月付有什么区别？</div><div class=\"a\">功能完全一样，只是价格更优惠。按年付相当于全年少付两个月左右的费用，适合打算长期使用的朋友。</div></div>\n<div class=\"qa\"><div class=\"q\">支持退款吗？</div><div class=\"a\">关于退款政策，请以订阅页面和购买时的条款说明为准。如果有特殊情况，欢迎提交工单和我们沟通。</div></div>\n</div>\n<div class=\"faq-group\">\n<h3>关于使用</h3>\n<div class=\"qa\"><div class=\"q\">流量用完了怎么办？</div><div class=\"a\">流量用完后当月会限速或暂停服务，具体取决于套餐规则。你可以等待次月自动恢复，或升级到更高流量的套餐。</div></div>\n<div class=\"qa\"><div class=\"q\">为什么有时候连接速度会变慢？</div><div class=\"a\">速度受多种因素影响，包括你本地网络、运营商线路、所选节点负载等。建议尝试切换节点，或选择带\"IPLC\"或\"专线\"标签的线路。</div></div>\n<div class=\"qa\"><div class=\"q\">手机和电脑能同时用吗？</div><div class=\"a\">只要不超过套餐的设备数量上限就可以。基础版 3 台、旗舰版 5 台、团队版 20 台，够你同时在多设备上挂着。</div></div>\n</div>\n<div class=\"faq-group\">\n<h3>关于隐私</h3>\n<div class=\"qa\"><div class=\"q\">auVPN 会记录我的浏览内容吗？</div><div class=\"a\">我们不主动记录你的具体浏览内容。运营所需的最小化连接日志政策，请以官方隐私条款为准。</div></div>\n<div class=\"qa\"><div class=\"q\">我的账号信息安全吗？</div><div class=\"a\">账号信息采用常规加密存储。建议你使用独立密码，并不要把订阅链接分享给他人，以免账号被盗用或超限。</div></div>\n</div>\n</section>\n<section id=\"contact\">\n<h2>联系我们</h2>\n<p>有任何问题、建议或者只是想聊聊，都欢迎来找我们。你可以通过账户后台提交工单，或者在订阅确认邮件中找到官方联系方式。</p>\n<p>我们不是大公司，回复可能不会秒回，但一定会在工单承诺的时间内给你一个认真、像样的答复。谢谢你愿意给 auVPN 一个机会。</p>\n</section>\n</main>\n</div>\n<footer>\nauVPN — 陪你安静穿梭网络的小助手<br>\n本页面为品牌介绍与使用说明，不构成任何法律承诺。套餐内容、价格与政策以订阅页面实时信息为准。\n</footer>",
+          "hash": "85d1a6cd946c002f78f73d53c40c88010829dc3c9a199cf64d63519abee5c51b",
+          "seo": {
+            "title": "auVPN — 陪你安静穿梭网络的小助手",
+            "keywords": "auVPN,VPN,虚拟专用网,隐私保护,流媒体解锁,专线加速",
+            "description": "auVPN 是一款轻量好用的私人网络助手，帮你轻松访问全球内容、保护日常上网隐私，订阅灵活，上手简单，像朋友一样贴心陪伴每一次连接。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "2827",
+            "hero": "4 仪表盘式数据块拼贴",
+            "palette": "8 酒红配象牙白",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "rikzaae.cn",
+    "host": "p-ad7ae6c0ba.rikzaae.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "7e9b9a10ac6e9d9753c7b6f1b488488901147ef1893865abafe0e61266a71780",
+    "sitemap.xml": "9c4a97a0ad7c86a213ae72733fc896c537bbf9e251803b9093a80060868de019",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5238e0bc65f8d598822160bf939c2f9cd0812d3345b124af8d86d297d2813476",
+    "robots.txt": "30f9f90aee40779e433084be171c578216ad854c9432903891461fa0b5c4b621",
+    "741f7ac34c7d90bb376fbfff947397dc.txt": "b76a4e476cc0a1c1ec5d9272bda68b1e9a9e85efd8a20015964352b374044fd2"
+  },
+  "revision": "3d46a734dfb63695e125402f45b43625d6f9ae11054f63aa699ded452a05e439"
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-ad7ae6c0ba.rikzaae.cn/sitemap.xml
